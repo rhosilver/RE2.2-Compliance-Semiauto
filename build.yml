@@ -18,7 +18,7 @@ iphone:
 wp8:
   productid: e5d44791-b367-0132-bfbe-548564b37e45
 android:
-  version: 2.3.3
+  #version: 2.3.3
   abis: [arm, x86]
   logcatFilter: APP:I StrictMode:I DEBUG:I *:E
 wm: ''
